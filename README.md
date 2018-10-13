@@ -7,6 +7,6 @@ Application for learning on your time
 </br>
 
 <br>
-<h1>List IOS Over here</h1>
+<h1>IOS</h1>
 •	Nothing so far
 </br>
