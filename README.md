@@ -1,7 +1,7 @@
 # Andriod-apps-for-learning
 <!DOCTYPE>
 <html>
-  <title>Application for learning on your time<title>
+  <title>Application for learning on your time</title>
 <h1>Andriod Apps</h1>
   <body>
 <br>
