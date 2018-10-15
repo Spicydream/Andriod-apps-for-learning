@@ -1,5 +1,5 @@
 # Andriod-apps-for-learning
-Application for learning on your time
+Application for learning on your own time
 
 <h1>Andriod Apps</h1>
 <br>
